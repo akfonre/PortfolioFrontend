@@ -1,0 +1,10 @@
+#bannerimage {
+  width: 100%;
+  background-image: url(F://CURSOWEB/PortfolioFrontend/images/portada.jpg);
+  height: 405px;
+  background-position: center;
+}
+
+.background-color {
+  color: black
+}
