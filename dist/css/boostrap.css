@@ -1,10 +1,33 @@
-#bannerimage {
+.background-color {
+  color: black
+}
+
+#banner-image {
   width: 100%;
   background-image: url(F://CURSOWEB/PortfolioFrontend/images/portada.jpg);
   height: 405px;
   background-position: center;
 }
 
-.background-color {
-  color: black
+#foto-profile {
+  align: left;
+  width: 10%;
+  heigth: 10%; 	
 }
+
+#info-container {
+ font-family: georgia;
+ display: inline-block;
+ vertical-align: top;
+}
+
+#info-name {
+ font-weight: bold;
+}
+
+#info-developer {
+ font-size: 20px;
+}
+
+
+
