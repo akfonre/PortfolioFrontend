@@ -1,11 +1,18 @@
-.background-color {
-  color: black
+.mat-card {
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: #0a66c2;
 }
 
-#banner-image {
+.background-color {
+  color: white;
+}
+
+#profile-background {
   width: 100%;
-  background-image: url(F://CURSOWEB/PortfolioFrontend/images/portada.jpg);
   height: 405px;
+  background-image: url(F://CURSOWEB/PortfolioFrontend/images/portada.jpg);
   background-position: center;
 }
 
@@ -28,6 +35,3 @@
 #info-developer {
  font-size: 20px;
 }
-
-
-
